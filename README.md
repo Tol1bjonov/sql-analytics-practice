@@ -15,8 +15,6 @@ The projects focus on real-world datasets and showcase the ability to:
 - build analytical queries for dashboards  
 - create interactive visualizations using Python  
 
-This portfolio is intended for **Data Analyst / Analytics Engineering** roles.
-
 ---
 
 ## 📁 Repository Structure
